@@ -4,7 +4,7 @@ public class Main {
         int sum = 0;
 
         //Input
-        
+
         //Process
         for (int i = 1; i <= (100/7); i++) {
             sum += i*7;
